@@ -26,7 +26,6 @@ print(solution)
 ```
 ## Output:
 ![image](https://github.com/user-attachments/assets/7156a9fe-bef6-4f80-85f3-9f057db07fbf)
-
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
