@@ -1,4 +1,5 @@
 # RANK-OF-A-MATRIX
+
 ## Aim:
 To write a python program to find the rank of a matrix
 ## Equipment’s required:
@@ -13,6 +14,7 @@ Define the matrix A as a 2D array using np.array().
 Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 ### Step 4:
 Display the rank using print().
+
 ## Program:
 ```
 #Program to find the rank of a matrix.
